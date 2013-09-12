@@ -104,6 +104,8 @@
 ****** Measurable
 ***** Strategy = Coherent(Goal, Opportunity, Capability)
 **** Culture: trust, openness, diversity
+***** Claudio Perrone - card deck for guided conversations.
+****** https://play.google.com/store/apps/details?id=com.agilesensei.a3thinker
 *****
 * Random Ideas
 ** How to measure the success of an OS project?
