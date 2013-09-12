@@ -51,7 +51,28 @@
 *** Mid Management
 **** How to connect with them?
 ***** If mid-mgmt are not the agents of change then your initiative will fail. - Leffingwell.
-*****
+***** How do you empower MM?
+****** Kaizen teams?
+****** How did the system create so much WIP in the first place?
+******* Annual funding cycles?
+****** Beyond budgeting?
+***** No teams of MMs.
+***** Systemic issues
+***** MMs own/are the system. And cause problem. - Leffingwell   :insightful:
+***** TODO John Kotter "Dual Operating Systems" HBR                 :reading:
+***** Orgs should have an organisational architect. - Cottmeyer  :insightful:
+***** Challenge of the MM to act is safety.
+***** Legislation enforece hard constraints. Elephant. - Sutton
+**** Resources
+***** Not clear what to tell MM.
+***** Why do MM do their work?
+***** TODO Manifesto for MM                                      :insightful:
+****** Values
+****** Principles
+***** Directed reading list.
+***** Tools and practices are not clear. - Bell                  :insightful:
+***** TODO [#A] Speed of trust                                      :reading:
+***** TODO Circle of teaching/learning for MMs.
 * Random Ideas
 ** How to measure the success of an OS project?
 *** Team size?
