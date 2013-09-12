@@ -2,35 +2,59 @@
 ** Day 1 <2013-09-11 Wed>
 *** Intro sessions
 **** AlShall
-    + Hillel Glazer - Community Connector
-    + Strong call from AlShall for systems improvements.
-    + Tacit knowledge - how do we get it out there? Fear holding it in?
-    + Today is how to figure out what we don't know we know and how we can  know it as a community.
-
+***** Hillel Glazer - Community Connector
+***** Strong call from AlShall for systems improvements.
+***** Tacit knowledge - how do we get it out there? Fear holding it in?
+***** Today is how to figure out what we don't know we know and how we can  know it as a community.
 *** Temenos
-   + "Create a community quickly"
-   + Connect what with how.
-   + Shared vision required for meaningful results.
-     + Shared meaning and focus.
-     + Vision
-       + Your personal history etc that got you here.
-     + Temenos can help us get there.
-       + By making connections through participative sharing exercises.
-   + Introspection, visulaisation, articulation.
-**** Introspection, visualisation
-    + Depict your personal hostory.
-    + "Ask not what this community can do for you, ask what you can do for this community."
-**** Articulation
-    + Rounds of 3 mins explaining your visualisation.
-
+**** TODO Find out more!                                         :reading:
+**** "Create a community quickly"
+**** Connect what with how.
+**** Shared vision required for meaningful results.
+***** Shared meaning and focus.
+***** Vision
+****** Your personal history etc that got you here.
+****** Temenos can help us get there.
+*******  By making connections through participative sharing exercises.
+**** Introspection, visulaisation, articulation.
+***** Introspection, visualisation
+****** Depict your personal hostory.
+****** "Ask not what this community can do for you, ask what you can do for this community."
+***** Articulation
+****** Rounds of 3 mins explaining your visualisation.
 *** Sense-making
-   + Iron ring on little finger - symbol of engineer school Canada.
-     + Originals made from colapsed bridge.
-   + Brian Aruthur
-   + Dekker, Cilliers, Hofmeyr
-   + Mary Douglas
+**** Iron ring on little finger - symbol of engineer school Canada.
+***** Oiginals made from colapsed bridge.
+**** Brian Aruthur                                               :reading:
+**** Dekker, Cilliers, Hofmeyr                                   :reading:
+**** Mary Douglas                                                :reading:
 **** Explore
-    + What dyad or triad areas are important for this group?
-    + Share experiences related to above.
-    + Develop statements for each highlighted area about what is influencing these areas?
-**** Ritual Dissent Rounds
+***** What dyad or triad areas are important for this group?
+***** Share experiences related to above.
+***** Develop statements for each highlighted area about what is influencing these areas?
+**** Ritual Dissent rounds
+**** Now using Tableau as an analysis backend
+*** Steve Bell - can we change the world?
+**** Lean4NGO.org
+**** Starfish and the Spider                                     :reading:
+**** Made to stick                                               :reading:
+**** Poverty is a systemic condition
+**** On micro-financing: "every micro-financed project is a lean startup".
+** Day 2 <2013-09-12>
+*** Lean coffee
+**** How do you control WIP in life?
+***** TODO Pomodoro
+***** Mix different takt time types in single Pomodoro / timeslot.
+***** Differentiate types of block (e.g. WIP block / dep block).
+***** Slack backlog. ("Bug bucket")
+****** Ordered. Pick top item.
+*** Mid Management
+**** How to connect with them?
+***** If mid-mgmt are not the agents of change then your initiative will fail. - Leffingwell.
+*****
+* Random Ideas
+** How to measure the success of an OS project?
+*** Team size?
+*** Downloads
+*** Install base
+*** Machine time
