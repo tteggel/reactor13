@@ -73,6 +73,38 @@
 ***** Tools and practices are not clear. - Bell                  :insightful:
 ***** TODO [#A] Speed of trust                                      :reading:
 ***** TODO Circle of teaching/learning for MMs.
+*** Sr Management
+**** Models / worldviews / language
+***** How to empathise with Sr Management?
+****** "What keeps you up at night?"
+***** How to find stories in VP language?
+***** Language vs narrative.
+***** "What 2 things do you have to acheive this year?"
+***** "Who is your customer?"
+***** If you go in diagnosing you are dead - Walker Royce
+****** Some disagreement
+**** Hoshin Kanri as a framework (Strategy Deployment)
+***** Tiered PDCA
+***** Horizontal and vertical decomposition
+***** TODO Getting the right things done                            :reading:
+***** TODO Art of action                                            :reading:
+***** TODO The Outstanding Orgs                                     :reading:
+***** TODO Hoshin Kanri for the lean enterprise                     :reading:
+***** 3-5 yr vision "True North"
+***** 1 year individual statements "I will"
+***** Iteration speed increases as you get closer to the frontline
+***** Task -> Experiment -> Intent -> Strategy -> Vision
+****** Can use different words.
+***** Back-briefing to channel information upwards
+****** Weak signal detection.
+***** True North
+****** Where is the organisation going?
+****** What few things do we need to focus on?
+****** Actionable
+****** Measurable
+***** Strategy = Coherent(Goal, Opportunity, Capability)
+**** Culture: trust, openness, diversity
+*****
 * Random Ideas
 ** How to measure the success of an OS project?
 *** Team size?
